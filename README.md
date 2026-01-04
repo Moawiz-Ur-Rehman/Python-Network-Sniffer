@@ -39,10 +39,10 @@ Unlike standard sniffers that simply "watch" traffic, this application acts as a
 
 ### 1. The Dashboard (Process Detection & Geo-Location)
 <img width="1140" height="429" alt="Screenshot 2026-01-04 213536" src="https://github.com/user-attachments/assets/e6447283-d7c6-4093-a34a-fcc5a8d1be23" />
-<img width="1233" height="444" alt="Screenshot 2026-01-04 214150" src="https://github.com/user-attachments/assets/a7a8d9d6-d1ae-4bb4-a44b-f87ccba1acbc" />
+
 
 ### 2. Active Defense (IPS Popup)
-*(Add your screenshot here showing the "Threat Detected" Popup Box)*
+<img width="1233" height="444" alt="Screenshot 2026-01-04 214150" src="https://github.com/user-attachments/assets/a7a8d9d6-d1ae-4bb4-a44b-f87ccba1acbc" />
 
 ---
 
